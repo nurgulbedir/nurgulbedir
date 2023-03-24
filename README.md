@@ -1,5 +1,5 @@
 ### Hey! Ben Nurgül 🚀
-![fook](https://user-images.githubusercontent.com/119707805/227656249-95c90e64-cb81-4d62-ab1d-3017ba8a06fc.png)
+
 
 <!--
 **nurgulbedir/nurgulbedir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
