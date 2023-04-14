@@ -1,6 +1,6 @@
 ### Hey! Ben Nurgül 🚀
 
-https://www.linkedin.com/in/nurgulbedir/  
+
 <!--
 **nurgulbedir/nurgulbedir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
